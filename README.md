@@ -13,8 +13,3 @@ E-mail Address: rohanjena.dps@gmail.com | Instagram: Rohan.viable | LinkedIn: Ro
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RohanKJena&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=RohanKJena&icon=0&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
